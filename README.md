@@ -308,8 +308,5 @@
     <a style="text-decoration: none;" href="#">
      <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=AndressAndrade&layout=compact&theme=jolly" />
     </a>
-    <a style="text-decoration: none;" href="#">
-     <img width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=andressandrade"/>
-    </a>
   </div>
 </details>
