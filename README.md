@@ -303,7 +303,7 @@
       <img width="450px" src="https://github-readme-stats.vercel.app/api?username=AndressAndrade&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=jolly"/>
     </a>
     <a style="text-decoration: none;" href="#">
-      <img width="332px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressAndrade&layout=compact&theme=jolly&langs_count=6&hide=vhdl,verilog">
+      <img width="332px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressAndrade&layout=compact&theme=jolly&langs_count=6&hide=vhdl,verilog,html">
     </a>    
     <a style="text-decoration: none;" href="#">
      <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=AndressAndrade&layout=compact&theme=jolly" />
