@@ -5,7 +5,7 @@
 
 <br>
 
-<h2> Hi 👋🏽 I am Andressa </h2>
+<h2> Hi 👋🏽 I am Andressa Andrade</h2>
 
 - 🎓 Bacharel em Engenharia da Computação pela UFBA
 - 🏢 Trabalhando atualmente como Lider de projeto e Backend na Geek Business Lab, utilizando a stack FAN (Firebase, Angular e Nest.js)
