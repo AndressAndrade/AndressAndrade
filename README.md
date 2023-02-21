@@ -8,7 +8,7 @@
 <h2> Hi 👋🏽 I am Andressa Andrade</h2>
 
 - 🎓 Bacharel em Engenharia da Computação pela UFBA
-- 🏢 Trabalhei como Lider de projeto e Backend na Geek Business Lab, utilizando a stack FAN (Firebase, Angular e Nest.js)
+- 🏢 Trabalho no time de Engenharia de Software na @Loft
 - 🔭 Sempre estudando algo relacionado a tecnologia, atualmente aprendendo mais sobre banco de dados relacionais, SQL, Next.js, Nest.js e infraestrutura
 - 🎯 Focada atualmente na área de Desenvolvimento de Sistemas, principalmente backend
 - 🖥️ Também programo hardware e tenho interesse em IoT, Inteligência Artificial e Análise de Dados
